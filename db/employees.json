@@ -1,0 +1,27 @@
+[
+  {
+    "employee_id": 1,
+    "employee_name": "Anglo, Karl Jezrel",
+    "position": "backend_developer"
+  },
+  {
+    "employee_id": 2,
+    "employee_name": "Banzil, Crystal Jhoy",
+    "position": "database_administrator"
+  },
+  {
+    "employee_id": 3,
+    "employee_name": "Melgar, Timothy John",
+    "position": "game_developer"
+  },
+  {
+    "employee_id": 4,
+    "employee_name": "Pantonial, Junel",
+    "position": "frontend_developer"
+  },
+  {
+    "employee_id": 5,
+    "employee_name": "Shin, Mary Su-jin",
+    "position": "social_media_marketer"
+  }
+]
